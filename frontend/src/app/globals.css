@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #000 !important;
+    color: #fff !important;
+    height: 100vh;
+    width: 100vw;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+    border-left: 1px solid gray;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #6c6c6c;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #363636;
+}

@@ -1,0 +1,5 @@
+.container {
+    max-width: 70vw;
+    /* border: 1px solid red; */
+    margin: 20px auto;
+}
