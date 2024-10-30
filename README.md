@@ -57,3 +57,7 @@ To run this project locally, follow these steps:
 - **Post a Comment**: Enter a comment in the text field and submit.
 - **View Live Comments**: Watch new comments appear in real-time.
 
+## Screenshots
+![comments page](https://github.com/user-attachments/assets/4ff2dc03-db89-47de-bbba-1013de584097)
+
+
